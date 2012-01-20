@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+funcs = ARGV.dup
+ARGV.clear
+
+while _ = ARGF.gets
+  _ = _.strip
+  funcs.each do |func|
+    _ = eval(func)
+  end
+  puts _
+end
