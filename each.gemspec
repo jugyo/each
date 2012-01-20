@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version     = "1.0.0"
   s.authors     = ["jugyo"]
   s.email       = ["jugyo.org@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/jugyo/each"
   s.summary     = %q{The command each}
   s.description = %q{A simple command to process each line of ARGF.}
 
