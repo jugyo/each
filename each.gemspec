@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = "each"
-  s.version     = "1.0.0"
+  s.version     = "1.0.1"
   s.authors     = ["jugyo"]
   s.email       = ["jugyo.org@gmail.com"]
   s.homepage    = "https://github.com/jugyo/each"
